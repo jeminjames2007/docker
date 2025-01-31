@@ -1,0 +1,7 @@
+ services:
+  web:
+      build: .
+      mem_limit: 4G
+      cpus: 1
+      ports:
+        - "8001:80"

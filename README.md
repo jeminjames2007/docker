@@ -15,4 +15,4 @@
 
 #### For development environment, go to the respective folder and run the following commands
 
-#### sudo docker compose up . -d 
+####  docker compose up -d --build
