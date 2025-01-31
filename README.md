@@ -1,6 +1,18 @@
 #### Docker Tutorial (https://www.youtube.com/watch?v=pg19Z8LL06w)
-## Need to be Familiar with the following topics
+#### Need to be Familiar with the following topics
+#### How Docker Works
+#### Virtual Machine and Docker
+#### Docker Image
+#### Docker Container
+#### Docker Run
+#### Docker Port Mapping
+#### Docker Repository (Public and Private)
+#### Docker Networking
+#### Docker Storage
+#### Docker Compose
 
-## How Docker Works (https://www.freecodecamp.org/news/how-docker-containers-work/)
+#### Added sample application for PHP, Laravel, NodeJS and Python
 
-## Virtual Machine and Docker (https://aws.amazon.com/compare/the-difference-between-docker-vm/)
+#### For development environment, go to the respective folder and run the following commands
+
+#### sudo docker compose up . -d 
